@@ -1,5 +1,4 @@
 # whatsapp-chat-analysis
-A streamlit app to analyze your whatsapp chats
+WhatsApp Chat Analyzer is a robust tool for analyzing chats, detecting security threats, and automating sentiment analysis. It provides insights through data visualization dashboards using Matplotlib and Pandas, improving reporting accuracy and efficiency. The project enhances chat analysis with graphical reports and automated processes.
 
-## Site is live on 
-https://praveen880890-whatsapp-chat-analyzer-with-sentiment--app-u3qync.streamlit.app/
+
